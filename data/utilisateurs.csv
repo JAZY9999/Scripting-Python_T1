@@ -1,1 +1,8 @@
-﻿Nom d'utilisateur;prénom;nom;mdp hashé;email;date de création;date d'éxpiration;groupe;nom du poste;site;actif;tentatives_echec;derniere_connexion;doit_changer_mdp
+﻿login;prénom;nom;mdp hashé;email;date de création;date d'éxpiration;groupe;nom du poste;site;actif;tentatives_echec;derniere_connexion;doit_changer_mdp
+sadmin;Sophie;Admin;9f86d081884c7d659a2feaa0c55ad015;sophie.admin@americanhospital.fr;2025-01-10;2027-01-10;super_admin;Responsable SI;Paris;oui;0;2026-09-20;non
+pmartin;Paul;Martin;3e23e8160039594a33894f6564e1b134;paul.martin@americanhospital.fr;2025-03-15;2027-03-15;admin;Administrateur système;Paris;oui;0;2026-09-19;non
+cdubois;Camille;Dubois;e10adc3949ba59abbe56e057f20f883e;camille.dubois@americanhospital.fr;2025-04-01;2027-04-01;admin;Administrateur système;Lyon;oui;0;2026-09-18;non
+kbenali;Karim;Benali;5f4dcc3b5aa765d61d8327deb882cf99;karim.benali@americanhospital.fr;2025-05-20;2027-05-20;admin;Administrateur système;Marseille;oui;0;2026-09-17;non
+jdupont;Jean;Dupont;25f9e794323b453885f5181f1b624d0b;jean.dupont@americanhospital.fr;2026-01-05;2027-01-05;utilisateur;Infirmier;Paris;oui;0;2026-09-20;non
+mleroy;Marie;Leroy, née Béranger;d8578edf8458ce06fbc5bb76a58c5ca4;marie.leroy@americanhospital.fr;2026-02-10;2027-02-10;utilisateur;Médecin;Lyon;oui;1;2026-09-21;oui
+ynoiret;Yasmine;Noiret;7c6a180b36896a0a8c02787eeafb0e4c;yasmine.noiret@americanhospital.fr;2026-03-01;2027-03-01;utilisateur;Secrétaire médicale;Marseille;non;3;2026-08-30;oui
